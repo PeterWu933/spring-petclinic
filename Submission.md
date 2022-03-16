@@ -1,6 +1,6 @@
 Link to Dockerfile: https://github.com/PeterWu933/spring-petclinic/blob/master/Dockerfile
 
-![Screen Capture](image-hw8/Screen Shot 2022-03-10 at 3.50.16 PM.png)
+- ![Screen Capture](image-hw8/Screen Shot 2022-03-10 at 3.50.16 PM.png)
 
 ![Screen Capture](image-hw8/Screen Shot 2022-03-10 at 3.49.15 PM.png)
 
